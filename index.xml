@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Quartz 4</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on Quartz 4</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>faction-bloodthorn-court</title>
+    <link>https://quartz.jzhao.xyz/Shadewood/faction-bloodthorn-court</link>
+    <guid>https://quartz.jzhao.xyz/Shadewood/faction-bloodthorn-court</guid>
+    <description><![CDATA[ The Bloodthorn Court Vampire Base Stats HPDEFACCMOVEAL1664+53 Team Rule: Transfusion Vampires can spend 2 health to upgrade an attack dice by 1 (this has no limit for number of uses per attack roll). ]]></description>
+    <pubDate>Fri, 07 Nov 2025 05:57:01 GMT</pubDate>
+  </item><item>
+    <title>faction-brambleguard</title>
+    <link>https://quartz.jzhao.xyz/Shadewood/faction-brambleguard</link>
+    <guid>https://quartz.jzhao.xyz/Shadewood/faction-brambleguard</guid>
+    <description><![CDATA[ The Brambleguard Minotaur Base Stats HPDEFACCMOVEAL1054+62 Team Rule: Mess with the Bull, Get the Horns Whenever a Minotaur charges an enemy unit, deal d3 + 1 damage and knock back that enemy unit 1 hex. ]]></description>
+    <pubDate>Fri, 07 Nov 2025 05:57:01 GMT</pubDate>
+  </item><item>
+    <title>faction-living-grove</title>
+    <link>https://quartz.jzhao.xyz/Shadewood/faction-living-grove</link>
+    <guid>https://quartz.jzhao.xyz/Shadewood/faction-living-grove</guid>
+    <description><![CDATA[ The Living Grove Treant Base Stats HPDEFACCMOVEAL1663+63 Dryad Base Stats HPDEFACCMOVEAL743+52 Team Rule: Whisper of the Willow Dryads can spend 1 Action Point to make a treant do a free generic action. ]]></description>
+    <pubDate>Fri, 07 Nov 2025 05:57:01 GMT</pubDate>
+  </item><item>
+    <title>faction-primal-wardens</title>
+    <link>https://quartz.jzhao.xyz/Shadewood/faction-primal-wardens</link>
+    <guid>https://quartz.jzhao.xyz/Shadewood/faction-primal-wardens</guid>
+    <description><![CDATA[ The Primal Wardens Centaur Base Stats HPDEFACCMOVEAL1663+73 Team Rule: Slicing Gallop Centaurs may move within and out of melee range on normal moves and charges. ]]></description>
+    <pubDate>Fri, 07 Nov 2025 05:57:01 GMT</pubDate>
+  </item><item>
+    <title>faction-rotcallers</title>
+    <link>https://quartz.jzhao.xyz/Shadewood/faction-rotcallers</link>
+    <guid>https://quartz.jzhao.xyz/Shadewood/faction-rotcallers</guid>
+    <description><![CDATA[ The Rotcallers Myconid Base Stats HPDEFACCMOVEAL1053+62 Team Rule: Death Bloom Whenever a Myconid perishes, drop a death bloom token. ]]></description>
+    <pubDate>Fri, 07 Nov 2025 05:57:01 GMT</pubDate>
+  </item><item>
+    <title>faction-skydancers</title>
+    <link>https://quartz.jzhao.xyz/Shadewood/faction-skydancers</link>
+    <guid>https://quartz.jzhao.xyz/Shadewood/faction-skydancers</guid>
+    <description><![CDATA[ The Skydancers Fairy Base Stats HPDEFACCMOVEAL744+72 Team Rule: Fairy Rings Before the battle begins, place 3 fairy ring tokens within your half of the field. ]]></description>
+    <pubDate>Fri, 07 Nov 2025 05:57:01 GMT</pubDate>
+  </item><item>
+    <title>faction-thornlings</title>
+    <link>https://quartz.jzhao.xyz/Shadewood/faction-thornlings</link>
+    <guid>https://quartz.jzhao.xyz/Shadewood/faction-thornlings</guid>
+    <description><![CDATA[ The Thornlings Goblin Base Stats HPDEFACCMOVEAL744+62 Team Rule: Treasure! Whenever a Goblin performs a mission action or the “Look for Treasure” action, roll a d6: on a 4+, you find a treasure token. ]]></description>
+    <pubDate>Fri, 07 Nov 2025 05:57:01 GMT</pubDate>
+  </item><item>
+    <title>faction-tinkerbright</title>
+    <link>https://quartz.jzhao.xyz/Shadewood/faction-tinkerbright</link>
+    <guid>https://quartz.jzhao.xyz/Shadewood/faction-tinkerbright</guid>
+    <description><![CDATA[ The Tinkerbright Gnome Base Stats HPDEFACCMOVEAL744+52 Team Rule: Teleportation Tech Each Gnome gets a special action called “Set Teleportation Pad”. ]]></description>
+    <pubDate>Fri, 07 Nov 2025 05:57:01 GMT</pubDate>
+  </item><item>
+    <title>faction-wildkin-packs</title>
+    <link>https://quartz.jzhao.xyz/Shadewood/faction-wildkin-packs</link>
+    <guid>https://quartz.jzhao.xyz/Shadewood/faction-wildkin-packs</guid>
+    <description><![CDATA[ The Wildkin Packs Werewolf Base Stats HPDEFACCMOVEAL1663+63 Team Rule: Scent of the Weak A Werewolf gets +1 to all damage from attack dice for all attacks against enemy units that are not at full health. ]]></description>
+    <pubDate>Fri, 07 Nov 2025 05:57:01 GMT</pubDate>
+  </item><item>
+    <title>generic-units</title>
+    <link>https://quartz.jzhao.xyz/Shadewood/generic-units</link>
+    <guid>https://quartz.jzhao.xyz/Shadewood/generic-units</guid>
+    <description><![CDATA[ Generic Unit Types Leader Special Action: Command Once per battle, during this operative’s activation, for free, you can command a friendly operative from your faction to complete 1 free Generic Action. ]]></description>
+    <pubDate>Fri, 07 Nov 2025 05:57:01 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
