@@ -1,33 +1,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>https://sgmoore03.github.io/Shadewood-rules/Shadewood/faction-bloodthorn-court</loc>
-    <lastmod>2025-11-07T05:57:01.000Z</lastmod>
+    <loc>https://sgmoore03.github.io/Shadewood-rules/Shadewood/Factions/Bloodthorn-Court</loc>
+    <lastmod>2025-11-19T15:27:04.886Z</lastmod>
   </url><url>
-    <loc>https://sgmoore03.github.io/Shadewood-rules/Shadewood/faction-brambleguard</loc>
-    <lastmod>2025-11-07T05:57:01.000Z</lastmod>
+    <loc>https://sgmoore03.github.io/Shadewood-rules/Shadewood/Factions/Brambleguard</loc>
+    <lastmod>2025-11-16T08:14:28.930Z</lastmod>
   </url><url>
-    <loc>https://sgmoore03.github.io/Shadewood-rules/Shadewood/faction-living-grove</loc>
-    <lastmod>2025-11-07T05:57:01.000Z</lastmod>
+    <loc>https://sgmoore03.github.io/Shadewood-rules/Shadewood/Factions/Skydancers</loc>
+    <lastmod>2025-11-07T05:29:53.060Z</lastmod>
   </url><url>
-    <loc>https://sgmoore03.github.io/Shadewood-rules/Shadewood/faction-primal-wardens</loc>
-    <lastmod>2025-11-07T05:57:01.000Z</lastmod>
+    <loc>https://sgmoore03.github.io/Shadewood-rules/Shadewood/Factions/The-Rotcallers</loc>
+    <lastmod>2025-11-19T15:27:31.752Z</lastmod>
   </url><url>
-    <loc>https://sgmoore03.github.io/Shadewood-rules/Shadewood/faction-rotcallers</loc>
-    <lastmod>2025-11-07T05:57:01.000Z</lastmod>
+    <loc>https://sgmoore03.github.io/Shadewood-rules/Shadewood/Factions/WIP/Primal-Wardens</loc>
+    <lastmod>2025-11-16T07:28:24.894Z</lastmod>
   </url><url>
-    <loc>https://sgmoore03.github.io/Shadewood-rules/Shadewood/faction-skydancers</loc>
-    <lastmod>2025-11-07T05:57:01.000Z</lastmod>
+    <loc>https://sgmoore03.github.io/Shadewood-rules/Shadewood/Factions/WIP/The-Living-Grove</loc>
+    <lastmod>2025-11-07T05:29:53.049Z</lastmod>
   </url><url>
-    <loc>https://sgmoore03.github.io/Shadewood-rules/Shadewood/faction-thornlings</loc>
-    <lastmod>2025-11-07T05:57:01.000Z</lastmod>
+    <loc>https://sgmoore03.github.io/Shadewood-rules/Shadewood/Factions/WIP/Thornlings</loc>
+    <lastmod>2025-11-07T05:29:53.066Z</lastmod>
   </url><url>
-    <loc>https://sgmoore03.github.io/Shadewood-rules/Shadewood/faction-tinkerbright</loc>
-    <lastmod>2025-11-07T05:57:01.000Z</lastmod>
+    <loc>https://sgmoore03.github.io/Shadewood-rules/Shadewood/Factions/WIP/Tinkerbright</loc>
+    <lastmod>2025-11-14T04:38:45.769Z</lastmod>
   </url><url>
-    <loc>https://sgmoore03.github.io/Shadewood-rules/Shadewood/faction-wildkin-packs</loc>
-    <lastmod>2025-11-07T05:57:01.000Z</lastmod>
+    <loc>https://sgmoore03.github.io/Shadewood-rules/Shadewood/Factions/Wildkin-Packs</loc>
+    <lastmod>2025-11-19T15:54:52.768Z</lastmod>
   </url><url>
-    <loc>https://sgmoore03.github.io/Shadewood-rules/Shadewood/generic-units</loc>
-    <lastmod>2025-11-07T05:57:01.000Z</lastmod>
+    <loc>https://sgmoore03.github.io/Shadewood-rules/Shadewood/Generic-Units/Blademaster</loc>
+    <lastmod>2025-11-14T04:36:32.812Z</lastmod>
+  </url><url>
+    <loc>https://sgmoore03.github.io/Shadewood-rules/Shadewood/Generic-Units/Comms-Specialist</loc>
+    <lastmod>2025-11-14T04:36:32.819Z</lastmod>
+  </url><url>
+    <loc>https://sgmoore03.github.io/Shadewood-rules/Shadewood/Generic-Units/Grenadier</loc>
+    <lastmod>2025-11-14T04:36:32.824Z</lastmod>
+  </url><url>
+    <loc>https://sgmoore03.github.io/Shadewood-rules/Shadewood/Generic-Units/Gunner</loc>
+    <lastmod>2025-11-14T04:36:32.826Z</lastmod>
+  </url><url>
+    <loc>https://sgmoore03.github.io/Shadewood-rules/Shadewood/Generic-Units/Heavy-Gunner</loc>
+    <lastmod>2025-11-14T04:36:32.829Z</lastmod>
+  </url><url>
+    <loc>https://sgmoore03.github.io/Shadewood-rules/Shadewood/Generic-Units/Leader</loc>
+    <lastmod>2025-11-14T04:36:32.831Z</lastmod>
+  </url><url>
+    <loc>https://sgmoore03.github.io/Shadewood-rules/Shadewood/Generic-Units/Medic</loc>
+    <lastmod>2025-11-14T04:36:32.833Z</lastmod>
+  </url><url>
+    <loc>https://sgmoore03.github.io/Shadewood-rules/Shadewood/Generic-Units/Sniper</loc>
+    <lastmod>2025-11-14T04:36:32.835Z</lastmod>
+  </url><url>
+    <loc>https://sgmoore03.github.io/Shadewood-rules/Shadewood/Generic-Units/Spirit-Healer</loc>
+    <lastmod>2025-11-14T04:36:32.838Z</lastmod>
+  </url><url>
+    <loc>https://sgmoore03.github.io/Shadewood-rules/Shadewood/Generic-Units/Spotter</loc>
+    <lastmod>2025-11-14T04:36:32.840Z</lastmod>
+  </url><url>
+    <loc>https://sgmoore03.github.io/Shadewood-rules/Shadewood/Generic-Units/Tech-Specialist</loc>
+    <lastmod>2025-11-14T04:36:32.842Z</lastmod>
+  </url><url>
+    <loc>https://sgmoore03.github.io/Shadewood-rules/Shadewood/</loc>
+    <lastmod>2025-11-07T06:28:38.938Z</lastmod>
   </url><url>
     <loc>https://sgmoore03.github.io/Shadewood-rules/Shadewood/shadewood-lore</loc>
     <lastmod>2025-11-07T05:57:01.000Z</lastmod>
